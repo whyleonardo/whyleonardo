@@ -1,9 +1,11 @@
+## Olá, me chamo Christian Leonardo
+
 ### Bem-vindo ao meu perfil GitHub! 👋
 ### Welcome to my Github profile! 👋
 
-## Olá, me chamo Christian Leonardo
 
-##Tenho 23 anos, moro em Betim/MG e sou apaixonado por programação! Apesar de já ter me formado em Ánalise e Desenvolvimento de Sistemas, somente há algum tempo realmente me joguei de cabeça nas linhas de códigos! 😜😅
+
+## Tenho 23 anos, moro em Betim/MG e sou apaixonado por programação! Apesar de já ter me formado em Ánalise e Desenvolvimento de Sistemas, somente há algum tempo realmente me joguei de cabeça nas linhas de códigos! 😜😅
 
 ### Ferramentas e Tecnologias
 
