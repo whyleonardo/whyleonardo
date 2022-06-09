@@ -14,7 +14,7 @@
 </div>
 
 ### 🌱 Estou Aprendendo:
-<div style=" background:#fff; display:flex; flex-direction:row;"> 
+<div style=" background-color:#fff; display:flex; flex-direction:row;"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
