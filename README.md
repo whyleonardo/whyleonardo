@@ -5,7 +5,7 @@
 ##### Tenho 23 anos, moro em Betim/MG, apaixonado por programação, e aprendendo a sentir o mesmo por café. 😜😅
 
 <p align="center">
-<img src="https://c.tenor.com/FVNfWAKnyDAAAAAM/waterloo-roblox.gif" width="250" />>
+<img src="https://c.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="250" />
 </p>
       
 </div>
