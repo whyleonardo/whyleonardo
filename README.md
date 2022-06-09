@@ -14,7 +14,8 @@
 </div>
 
 ### 🌱 Estou Aprendendo:
-<div style=" background-color:#fff; display:flex; flex-direction:row;"> 
+<div style=" background-color:#fff; display:flex; flex-direction:row;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
@@ -27,7 +28,7 @@
           <a href = "mailto:christian.lsb16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/whyleonardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<hr/>
 <div>
           <a href="https://github.com/whyleonardo">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyleonardo&layout=compact&langs_count=7&theme=dracula"/>
