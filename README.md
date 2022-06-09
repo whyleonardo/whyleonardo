@@ -1,8 +1,10 @@
 ## Olá, me chamo Christian Leonardo
 
-### Bem-vindo ao meu perfil GitHub! 👋
+### Bem-vindo ao meu perfil no GitHub! 👋
 
-##### Tenho 23 anos, moro em Betim/MG e sou apaixonado por programação! Sou formado em Ánalise e Desenvolvimento de Sistemas, atuei na área de suporte, e tinha a pretensão de atuar na área de Segurança, mas tive a oportunidade de realmente conhecer a programação da além do que já tinha convivido na faculdade, e daí realmente me joguei de cabeça nas linhas de código! 😜😅
+##### Tenho 23 anos, moro em Betim/MG, apaixonado por programação, e aprendendo a sentir o mesmo por café. 😜😅
+
+<div class="tenor-gif-embed" data-postid="24940325" data-share-method="host" data-aspect-ratio="1.09589" data-width="100%"><a href="https://tenor.com/view/waterloo-roblox-where-is-code-gory-barraux-gif-24940325">Waterloo Roblox GIF</a>from <a href="https://tenor.com/search/waterloo-gifs">Waterloo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <hr/>
 
@@ -33,13 +35,10 @@
           <a href="https://www.linkedin.com/in/whyleonardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<hr/>
-
 <div>
           <a href="https://github.com/whyleonardo">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyleonardo&layout=compact&langs_count=7&theme=dracula"/>
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whyleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-![Snake animation](https://github.com/whyleonardo/whyleonardo/blob/output/github-contribution-grid-snake.svg)
 
