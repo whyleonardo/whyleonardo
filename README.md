@@ -4,7 +4,7 @@
 
 ##### Tenho 23 anos, moro em Betim/MG, apaixonado por programação, e aprendendo a sentir o mesmo por café. 😜😅
 
-<div class="tenor-gif-embed" data-postid="24940325" data-share-method="host" data-aspect-ratio="1.09589" data-width="100%"><a href="https://tenor.com/view/waterloo-roblox-where-is-code-gory-barraux-gif-24940325">Waterloo Roblox GIF</a>from <a href="https://tenor.com/search/waterloo-gifs">Waterloo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://c.tenor.com/FVNfWAKnyDAAAAAM/waterloo-roblox.gif" />
 
 <hr/>
 
