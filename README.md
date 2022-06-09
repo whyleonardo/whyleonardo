@@ -3,12 +3,11 @@
 ### Bem-vindo ao meu perfil GitHub! 👋
 ### Welcome to my Github profile! 👋
 
-
-
 #### Tenho 23 anos, moro em Betim/MG e sou apaixonado por programação! Apesar de já ter me formado em Ánalise e Desenvolvimento de Sistemas, somente há algum tempo realmente me joguei de cabeça nas linhas de códigos! 😜😅
 
 ### Ferramentas e Tecnologias
-
+<div style="display:flex; flex-direction:row;"> 
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
