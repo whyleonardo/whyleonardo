@@ -10,7 +10,7 @@
       
 </div>
 
-<div style="display:flex; flex-direction:row;">
+
             ### 💻 Ferramentas e Tecnologias:
       <div style="display:flex; flex-direction:row;"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
@@ -27,7 +27,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
       </div>
-</div>
+
 
 <hr/>
 
