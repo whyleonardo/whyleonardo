@@ -37,5 +37,4 @@ Algumas das tecnologias e ferramentas que utilizo:
   <a href = "mailto:christian.batista216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/whyleonardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div align="center">  
-<img src="https://user-images.githubusercontent.com/88200985/183935126-591f410a-6c3e-4b3c-abab-445e6e47da31.gif" />
-</div>
+
