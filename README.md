@@ -1,18 +1,4 @@
-<h1 align="center"> Christian Leonardo 🦾🤖 </h1>
-
-<p align='center'>
-  Desenvolvedor Front-End 💻
-</p>
-
-###  Sobre mim:
-
-<p>
-  <em>
-    Tenho 24 anos, sou de Belo Horizonte, atualmente estou construindo conhecimentos sólidos em Front-End para em um futuro breve entrar no mercado.
-  </em>
-</p>
-
-- 👨🏽‍🌾 Atualmente estou aprendendo NextJS e GraphQL.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Sou+Christian+Leonardo;Desenvolvedor+Front-End)](https://git.io/typing-svg)
 - 📫 Meu email: christian.batista216@gmail.com
 
 ### 👨🏽‍💻 Tecnologias:
