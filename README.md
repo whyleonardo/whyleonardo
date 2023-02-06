@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Sou+Christian+Leonardo;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Christian+Leonardo;Front-End+Developer)](https://git.io/typing-svg)
+
 - 📫 Meu email: christian.batista216@gmail.com
 
 ### 👨🏽‍💻 Tecnologias:
