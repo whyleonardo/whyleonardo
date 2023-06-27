@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76338&width=435&lines=Hello!+I'm+Christian+Leonardo;Front-End+Developer"(https://git.io/typing-svg)>
  </p>
 
-- 📫 Meu email: christian.batista216@gmail.com
+- 📫 Meu email: whyleonardo.dev@gmail.com
 
 ### 👨🏽‍💻 Tecnologias:
 
