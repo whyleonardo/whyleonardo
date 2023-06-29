@@ -10,6 +10,14 @@
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whyleonardo&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/whyleonardo?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  </a>
+</p>
+
 
 <details align="center">
 
