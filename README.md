@@ -1,29 +1,72 @@
-<p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Sou+Christian+Leonardo;Desenvolvedor+Front-End"(https://git.io/typing-svg)>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76338&width=435&lines=Hello!+I'm+Christian+Leonardo;Front-End+Developer"(https://git.io/typing-svg)>
- </p>
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://whyleonardo.vercel.app">Christian</a></b>.
+    <br>I'm a Front-End Developer from Brazil<br>
 
-- 📫 Meu email: whyleonardo.dev@gmail.com
+</samp>
 
-### 👨🏽‍💻 Tecnologias:
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-Algumas das tecnologias e ferramentas que utilizo:
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/whyleonardo/keeptime">Keeptime</a>
+
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/christianlsb/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/christianlsb0">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+</p> 
+
+
+</samp>
+</details>
+
+<br/>
+
+<p align="center">
+<b> <samp> 📫 Email: whyleonardo.dev@gmail.com</samp> </b>
+</p>
+
+
+<br/>
+
+<p align="center">
+<b> <samp>  👨🏽‍💻 My Stack:</samp> </b>
+</p>
+
 
    <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,graphql,styledcomponents,firebase,sass,git" />
+     <a align='center' href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=js,html,css,figma,firebase,git,github,jest,nextjs,nodejs,prisma,react,supabase,tailwind,ts,vite,vscode"/>
      </a>
    </p>
+
+<br/>
+
+<p align="center">
+<b> <samp> My Github Stats: </samp> </b>
+</p>
    
-### 👾 Minhas Estatísticas:   
-
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=whyleonardo&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyleonardo&layout=compact&langs_count=7&theme=shades-of-purple) |
-
-💬 Minhas redes de contato:
-
-   <a href="https://www.linkedin.com/in/christianlsb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:christian.batista216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/whyleonardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<div align="center">  
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyleonardo&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whyleonardo&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyleonardo&theme=holi-theme">
+</p>
