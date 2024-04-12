@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://whyleonardo.vercel.app">Christian</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://whyleonardo.tech">Christian</a></b>.
     <br>I'm a Front-End Developer from Brazil<br>
 
 </samp>
