@@ -57,9 +57,9 @@ Current Project: <a href="https://github.com/whyleonardo/keeptime">Keeptime</a>
 </p>
 
 
-   <p align="center">
+ <p align="center">
      <a align='center' href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,html,css,figma,firebase,git,github,jest,nextjs,nodejs,prisma,react,supabase,tailwind,ts,vite,vscode"/>
+       <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,vue,nuxtjs,tailwind,vitest,figma,py"/>
      </a>
    </p>
 
